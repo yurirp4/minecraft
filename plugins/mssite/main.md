@@ -1,8 +1,7 @@
 
 ![s](http://i.imgur.com/9c2bzpj.png)
-Meu Primeiro Plugin Que Tem Utilidade
+### Meu Primeiro Plugin Que Tem Utilidade
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dSoz8PcvDZ4/0.jpg)](https://www.youtube.com/watch?v=dSoz8PcvDZ4)
-![video](https://www.youtube.com/watch?v=dSoz8PcvDZ4)
 
 Um Plugin Feito para Os Players Que Ainda Não conhecem o Site Do Server
 
@@ -39,3 +38,5 @@ Comandos:
 - adicionado /site help - agora fico mais facil saber todos os comandos
 - versão 2.3
 - Dependências : X
+
+DOWNLOAD: [clique aqui](https://www.spigotmc.org/resources/mssite.44428/)
