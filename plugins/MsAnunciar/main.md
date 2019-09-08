@@ -12,3 +12,5 @@
 
 ![s](https://image.prntscr.com/image/ua3u2a1dS6u8_43AZvn8kw.png)
 ![s](https://image.prntscr.com/image/WWpeoHj8TvKqJlSZaKf-Kw.png)
+
+DOWNLOAD: [clique aqui](https://www.spigotmc.org/resources/msanunciar.51132/)
