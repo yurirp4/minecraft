@@ -1,6 +1,7 @@
 ![s](https://i.imgur.com/HxlAKox.png)
 
-[![s](https://img.youtube.com/vi/01BlSyom5lk/maxresdefault.jpg)](https://youtu.be/01BlSyom5lk)
+[![Watch the video](https://img.youtube.com/vi/01BlSyom5lk/hqdefault.jpg)](https://youtu.be/01BlSyom5lk)
+
 
 - Galera So estava Esperando Sexta para Posta esse Plugin Lindo 
 
