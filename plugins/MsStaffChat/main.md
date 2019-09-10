@@ -21,3 +21,5 @@ MsStaffChat o melhor plugin de chat da Staff
 - um plugin esta em beta qual quer erro Report no email
 - bem no plugin ao falar no chat da staff aparece sua tag
 - dependencias: permissionEX
+
+DOWNLOAD: [clique aqui](https://www.spigotmc.org/resources/msstaffchat.51120/)
