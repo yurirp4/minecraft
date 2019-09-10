@@ -36,6 +36,8 @@ Dependencias: X
 ![s](https://image.prntscr.com/image/EXLP0frwTwGjih0Nnrjtag.png)
 ![s](https://image.prntscr.com/image/kkORpp-ITrexK8B26WD6fA.png)
 
+DOWNLOAD: [clique aqui](https://www.spigotmc.org/resources/msloja-um-simples-plugin-de-loja-para-seu-server.44508/)
+
 
 
 
