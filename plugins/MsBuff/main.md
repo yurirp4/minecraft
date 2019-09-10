@@ -2,6 +2,8 @@
 
              - Um Plugin Para ajudar na Hora de Minerar
              - feito a Lembraças de um Servidor de FullPVP
+[![Watch the video](https://img.youtube.com/vi/DAxtoM6ba08/hqdefault.jpg)](https://youtu.be/DAxtoM6ba08)
+
 
 ![s](https://i.imgur.com/QKNx18X.png)
 
