@@ -14,3 +14,5 @@
 * MsBuff
 * MsAjuda
 * MsJoin
+
+**Obs: todos os projetos foram parados!
