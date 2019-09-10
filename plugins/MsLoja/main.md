@@ -1,5 +1,6 @@
 
 ![s](http://i.imgur.com/0LxIdnk.png)
+
 Um Plugin De Loja Normal e Loja Vip
 
 Comandos:
@@ -23,6 +24,7 @@ Comandos:
 
 
 ![s](http://i.imgur.com/01N9Jam.png)
+
 Mensagens Editaveis Pela config
 
 Testado apenas : 1.8
