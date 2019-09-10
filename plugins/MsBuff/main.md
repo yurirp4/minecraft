@@ -1,4 +1,5 @@
 ![s](https://i.imgur.com/LxugxQz.png)
+
              - Um Plugin Para ajudar na Hora de Minerar
              - feito a Lembraças de um Servidor de FullPVP
 
