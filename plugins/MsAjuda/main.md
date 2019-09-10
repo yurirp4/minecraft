@@ -63,3 +63,5 @@
 - na Config.yml tem Dicas para usar o plugin
 
 - Deixe Sua Ideia Para o Plugin
+
+DOWNLOAD: [clique aqui](https://www.spigotmc.org/resources/msajuda-use-para-ajudar-os-players.47185/)
